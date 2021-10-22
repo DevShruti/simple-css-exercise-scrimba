@@ -49,7 +49,16 @@ a:focus {
   color: white;
 }
 
+.btn1:hover {
+  background: white;
+  color: #2e354f;
+}
 .btn2 {
   background: white;
   color: #2e354f;
+}
+
+.btn2:hover {
+  background: #ef5839;
+  color: white;
 }
