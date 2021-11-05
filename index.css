@@ -3,8 +3,12 @@ body {
 }
 
 .container {
-  width: 620px;
+  width: 50%;
   margin: 0 auto;
+}
+
+img {
+  width: 100%;
 }
 
 .header {
